@@ -2,8 +2,8 @@
 
 ## Integrantes del Proyecto.
 
-Alejandro Javier Fernandez
-Ignacio Teiguel
-Juan Carlos Vega
-Damian Pelisare
+- Alejandro Javier Fernandez
+- Ignacio Teiguel
+- Juan Carlos Vega
+- Damian Pelisare
 
